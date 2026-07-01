@@ -103,4 +103,6 @@ Two constants in the Python script may need tuning for your specific sensor/setu
 ## Contact
 
 Arjun Mishra - arjun.xynapse@gmail.com
+
+
 Project Link - https://github.com/arjunn74/TinyQuake/
